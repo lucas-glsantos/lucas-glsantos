@@ -140,4 +140,4 @@ Seja bem-vindo ao meu repositório, me chamo Lucas Santos, tenho 20 anos. Atualm
 
 
 
-*Conecte-se via rede sociais.*
+*Conecte-se a mim via rede sociais.*
