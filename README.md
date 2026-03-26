@@ -2,7 +2,7 @@
 
 **Desenvolvedor Fullstack**
 
-Seja bem-vindo ao meu repositório, me chamo Lucas Santos, tenho 20 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER e Técnico em Administração de Redes e Segurança da Informação na UniCesumar. Estou iniciando uma jornada no universo de tecnologia compartilhando meu conhecimento através do meu canal no YouTube [Lucas Santos](https://www.youtube.com/@lucas-glsantos), onde ensino a criar VMs, projetos web e conteúdos sobre tech.
+Seja bem-vindo ao meu repositório, me chamo Lucas Santos, tenho 20 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER e Técnico em Administração de Redes e Segurança da Informação na UniCesumar. Estou a mais de 2 anos nesta jornada no universo de tecnologia, aprendendo e compartilhando conhecimento sobre tech.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasglsantos/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@lucas-glsantos)
@@ -13,7 +13,7 @@ Seja bem-vindo ao meu repositório, me chamo Lucas Santos, tenho 20 anos. Atualm
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -119,23 +119,25 @@ Seja bem-vindo ao meu repositório, me chamo Lucas Santos, tenho 20 anos. Atualm
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=lucas-glsantos&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-glsantos&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-
+    <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="200" 
+        style="padding-right: 10px;" 
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucas-glsantos&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    />
+    <img 
+        align="left"
+        alt="Github Stats"
+        height="200"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucas-glsantos&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
+    />
 </p>
+
+
+
+*Conecte-se via rede sociais.*
