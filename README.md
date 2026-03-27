@@ -1,11 +1,11 @@
 
 
-<h1 style="text-align:center;">LUCAS SANTOS🧑🏽‍💻</h1>
+<h1 align="center">LUCAS SANTOS🧑🏽‍💻</h1>
 
 
-<h4 style="text-align:center;">Desenvolvedor Backend</h4>
+<h4 align="center">Desenvolvedor Backend</h4>
 
-<p style="text-align:center;">
+<p align="center">
     Seja bem-vindo ao meu repositório, me chamo Lucas Santos, tenho 20 anos. Atualmente, estou cursando <a href="https://www.uninter.com/graduacao/a-distancia/tecnologia-em-analise-e-desenvolvimento-de-sistemas/">Análise e Desenvolvimento de Sistemas na UNINTER</a>. Estou a mais de 2 anos nesta jornada no universo de tecnologia, aprendendo e compartilhando conhecimento sobre Tech.
 </p>
 
@@ -16,11 +16,11 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@lucas-glsantos)
 
 
-<h2 style="text-align:center;">
+<h2 align="center">
     Linguagens e Tecnologias
 </h2>
 
-<p style="text-align:center;">
+<p align="center">
     <img alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     <img alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -37,11 +37,11 @@
 <br/>
 <br/>
 
-<h2 style="text-align:center;">
+<h2 align="center">
     Estatísticas
 </h2>
 
-<p style="text-align:center;">
+<p align="center">
     <img
         height="200" 
         style="padding-right: 10px;" 
@@ -51,7 +51,7 @@
 
 <br />
 
-<p style="text-align:center;">
+<p align="center">
     <img
         height="200"
         src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucas-glsantos&theme=dark&layout=compact&langs_count=9"
@@ -61,6 +61,6 @@
 <br />
 <br />
 
-<h5 style="text-align:center;">
-    Conecte-se comigo nas rede sociais.
+<h5 align="center">
+    Connect with me on Social Media.
 </h5>
