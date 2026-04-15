@@ -19,9 +19,7 @@
 
 [![Outlook](https://img.icons8.com/?size=50&id=ut6gQeo5pNqf&format=png&color=000000)](mailto:lucasgabrieldelimasantos@outlook.com)
 [![Gmail](https://img.icons8.com/?size=50&id=qyRpAggnV0zH&format=png&color=000000)](mailto:playzlukaz@gmail.com)
-[![YouTube](https://img.icons8.com/?size=50&id=9a46bTk3awwI&format=png&color=000000)](https://www.youtube.com/@lucas-glsantos)
 [![LinkedIn](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/lucasglsantos/)
-[![Instagram](https://img.icons8.com/?size=50&id=Xy10Jcu1L2Su&format=png&color=000000)](https://www.instagram.com/lkzx.77)
 
 
 </div>
@@ -100,6 +98,9 @@
 </div>
 
 ---
+
+<br />
+<br />
 
 <h5 align="center">
     Connect with me on Social Media.
