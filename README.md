@@ -272,3 +272,5 @@
 <h5 align="center">
     Connect with me on Social Media.
 </h5>
+
+<img src='https://capsule-render.vercel.app/api?type=waving&color=428EFE&height=120&section=footer' width='100%' />
